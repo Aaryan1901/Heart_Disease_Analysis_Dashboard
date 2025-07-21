@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Analysis Dashboard ❤️
+# 🫀💔 Heart Disease Analysis Dashboard ❤️
 
 This project presents a detailed **Power BI dashboard** analyzing survival statistics among heart failure patients. The data includes various health and lifestyle factors such as age, gender, serum creatinine levels, ejection fraction, smoking, anaemia, high blood pressure, and diabetes. The dashboard is designed to help healthcare professionals, analysts, and researchers identify key trends and health risk factors.
 
